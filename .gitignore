@@ -1,2 +1,6 @@
 *.docx
 *.pdf
+*.csv
+.DS_Store
+pkdd-15-predict-taxi-service-trajectory-i/
+.ipynb_checkpoints
